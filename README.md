@@ -4,18 +4,18 @@
 
 
 
-# Game Center Web Site is a platform where online games can be ordered. Details of the games are given on cards. 
+ Game Center Web Site is a platform where online games can be ordered. Details of the games are given on cards. 
 
 
 
 
 
 
-# Technologies Used:
+ Technologies Used:
 
-# • HTML5, 
+ • HTML5, 
 
-# • CSS,
+ • CSS,
 
 
 
